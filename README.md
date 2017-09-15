@@ -12,13 +12,20 @@ Also, sometimes is difficult to find if a tool already exists or not, or if we a
 Are you a module owner? Are you writing something new? Do you contribute to a module? Share it!
 The ones I know and use can be very different from the ones you know and use! Why not share this information?
 
-## How to contribute
+## How can this help me?
+Are trying to find a module to work on a specific task? Use the search on the top of the page to try to find what you need.
+Working with Windows? Type "windows"
+Working with SQL Server? Type "SQL Server". 
+Do you know the name of the author of the module? You can search that way too.
+Have you read a blog post before and just remember one word type it and see what you find.
+
+## I have/know a information/blog post that can be added, how can I contribute?
 Just fork this repository, add the information and send a pull request (PR).
 I will merge it once everything is OK.
 
-If you find that module already exists, you just need to add your URLs and any other information to be updated, tags that you think may be useful, add something to description, etc.
+If you find that the module already exists, you just need to add your URLs and/or any other information to be updated. Tags that you think may be useful, add something to description, etc.
 
-### Index
+## Index
 * Modules
   * [dbatools](https://github.com/ClaudioESSilva/PowerShellModulesCentral/tree/master/Modules/dbatools.md)
   * [SQLDiagAPI](https://github.com/ClaudioESSilva/PowerShellModulesCentral/tree/master/Modules/SQLDiagAPI.md)
