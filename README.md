@@ -13,11 +13,11 @@ Are you a module owner? Are you writing something new? Do you contribute to a mo
 The ones I know and use can be very different from the ones you know and use! Why not share this information?
 
 ## How can this help me?
-Are trying to find a module to work on a specific task? Use the search on the top of the page to try to find what you need.
-Working with Windows? Type "windows"
-Working with SQL Server? Type "SQL Server". 
-Do you know the name of the author of the module? You can search that way too.
-Have you read a blog post before and just remember one word type it and see what you find.
+Are trying to find a module to work on a specific task? Use the search on the top of the page to try to find what you need. 
+* Working with Windows? Type "windows".  
+* Working with SQL Server? Type "SQL Server".  
+* Do you know the author's name? You can search that way too.  
+* Have you read a blog post before and just remember one word or the blogger's name? Type it and see what you find.  
 
 ## I have/know a information/blog post that can be added, how can I contribute?
 Just fork this repository, add the information and send a pull request (PR).
