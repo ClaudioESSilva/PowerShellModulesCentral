@@ -1,16 +1,13 @@
-<h3><strong>Name:</strong> dbatools</h3>
-<strong>Description:</strong> Instance migrations and best practice implementations
+# Name: dbatools
 
-<strong>Works with:</strong> SQL Server | Windows
+## Description:  
+Description:</strong> Instance migrations and best practice implementations.
 
-<strong>Author:</strong> Chrissy LeMaire (<a href="https://blog.netnerds.net" target="_blank">b</a> | <a href="https://twitter.com/cl" target="_blank">t</a>)
+| Works with | Author(s) | Project URL(s) | Tags |
+|------------|--------|-------------|------|
+| SQL Server, Windows | Chrissy LeMaire (<a href="https://blog.netnerds.net" target="_blank">b</a>  &#124; <a href="https://twitter.com/cl" target="_blank">t</a>) | [GitHub](https://github.com/sqlcollaborative/dbatools/) &#124; [dbatools.io](https://dbatools.io) | SQL Server, Migrations, Best Practices, Databases |
 
-<strong>Project URL:</strong> [GitHub](https://github.com/sqlcollaborative/dbatools/) | [dbatools.io](https://dbatools.io)
-
-<strong>Tags:</strong> SQL Server, Migrations, Best Practices, Databases
-
-<strong>Community experience:</strong>
-
+### Shared blog posts:
 Cláudio Silva (<a href="http://claudioessilva.eu" target="_blank">b</a> | <a href="https://twitter.com/claudioessilva" target="_blank">t</a>)
 - [Someone is not following the best practices – dbatools and Pester don’t lie!](https://claudioessilva.eu/2017/09/12/someone-is-not-following-the-best-practices-dbatools-and-pester-dont-lie/)
 - [Have you Backed Up Your SQL logins Today?](http://redglue.org/have-you-backed-up-your-sql-logins-today/)
