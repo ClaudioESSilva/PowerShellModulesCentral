@@ -3,7 +3,7 @@
 ## Description:  
 This is a module to work with the SQL Server Diagnostics (Preview) API.
 
-| Works with | Author | Project URL | Tags |
+| Works with | Author(s) | Project URL(s) | Tags |
 |------------|--------|-------------|------|
 | SQL Server | Rob Sewell (<a href="https://sqldbawithabeard.com" target="_blank">b</a> &#124; <a href="https://twitter.com/sqldbawithbeard" target="_blank">t</a>) | [GitHub](https://github.com/SQLDBAWithABeard/SQLDiagAPI) | SQL Server, Diagnostics, API |
 
