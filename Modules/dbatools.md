@@ -17,6 +17,9 @@ Constantine Kokkinos (<a href="https://constantinekokkinos.com" target="_blank">
 - [Automate and Simplify DBCC CHECKDB](https://constantinekokkinos.com/articles/200/automate-and-simplify-your-dbcc-checkdb) @ 2017-09-12
 - [T-SQL Tuesday 85: Managing database snapshots with dbatools](https://constantinekokkinos.com/articles/61/t-sql-tuesday-85-managing-snapshots-in-dbatools) @ 2017-09-12
 
+Rob Sewell (<a href="https://sqldbawithabeard.com/" target="_blank">b</a>)
+- [Export SQL User Permissions to T-SQL script using PowerShell and dbatools](https://sqldbawithabeard.com/2017/04/10/export-sql-user-permissions-to-t-sql-script-using-powershell-and-dbatools/) @ 2017-04-10
+
 Volker Bachmann (<a href="http://blog.volkerbachmann.de" target="_blank">b</a> | <a href="https://twitter.com/VolkerBachmann" target="_blank">t</a>)
 - [TSQL2sday #94 – SQL Server Best Practices Test With PowerShell Dbatools #Tsql2sday](http://blog.volkerbachmann.de/2017/09/12/tsql2sday-94-sql-server-best-practices-test-with-powershell-dbatools/) @ 2017-09-12
 ____
