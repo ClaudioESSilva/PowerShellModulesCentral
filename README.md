@@ -1,16 +1,19 @@
 # PowerShellModulesCentral
 
-The intent of this repository is to make available on a central place a list of modules that people know/use.
-Each module has his file with his name with some basic information and a list of blog posts from people that have written/used them.
+This repository was founded as a central hub to a list of PowerShell modules that people know/use.
+Each module has a file describing its name, basic information the module, as well as one or more blog posts from people that have written about or used them.
 
-This way people can have some starting point to find solutions for similar problems.
+This way we can reduce friction when people are starting out or are trying to solve similar problems
 
 ## Why?
-Once in a while a new module appears and can be hard to spread the word an reach most of the people that could be interested in it. 
-Also, sometimes is difficult to find if a tool already exists or not, or if we are looking to latest version. This happened to me recently I went to google, found a PowerShell Gallery script and after checking that script don't work with some particularities I did a further research and found (google result's - page 3 or 4) a comment on a forum pointing to the GitHub repository. Guess what? The problem I was having were already addressed. ;-)
+When a new module appears on the PowerShell scene it can be difficult to advertise and gain mindshare among developers/end users who could be interested in it. 
+There are also times when difficulties arise in finding if a good tool exists or not, if its up to date, and how relevant it is in the community.
 
-Are you a module owner? Are you writing something new? Do you contribute to a module? Share it!
-The ones I know and use can be very different from the ones you know and use! Why not share this information?
+This happened to me recently:  
+I went to google, found a PowerShell Gallery script, and after checking that the script didn't work with some particulars I did a further research and found (google result's - page 3 or 4) a comment on a forum pointing to the GitHub repository. Guess what? The problem I was having were already addressed. ;-)
+
+Are you a module owner? Are you writing something new? Do you contribute to a module? Share it! 
+The ones I know and use could be very different from the ones you know and use! Why not share?
 
 ## How can this help me?
 Are trying to find a module to work on a specific task? Use the search on the top of the page to try to find what you need. 
@@ -19,11 +22,10 @@ Are trying to find a module to work on a specific task? Use the search on the to
 * Do you know the author's name? You can search that way too.  
 * Have you read a blog post before and just remember one word or the blogger's name? Type it and see what you find.  
 
-## I have/know a information/blog post that can be added, how can I contribute?
-Just fork this repository, add the information and send a pull request (PR).
-I will merge it once everything is OK.
+## How to contribute
+Just fork this repository, add the information and send a pull request (PR). I will merge it once everything is OK.
 
-If you find that the module already exists, you just need to add your URLs and/or any other information to be updated. Tags that you think may be useful, add something to description, etc.
+If you find that module already exists, you just need to add your URLs and any other information to be updated, tags that you think may be useful, add something to description, etc.
 
 ## Index
 * Modules
