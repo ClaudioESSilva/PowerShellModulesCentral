@@ -23,13 +23,11 @@ Are trying to find a module to work on a specific task? Use the search on the to
 * Have you read a blog post before and just remember one word or the blogger's name? Type it and see what you find.
 
 ## How to contribute
-Just fork this repository, add the information and send a pull request (PR). I will merge it once everything is OK.
-
-For new modules please use the [template available here](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/.github/template.md).
-If you find that module already exists, you just need to add your URLs and any other information to be updated, tags that you think may be useful, add something to description, etc.
+Please, read the [CONTRIBUTING.md](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/CONTRIBUTING.md) file.
 
 ## Index
 * Modules
-  * [dbatools](https://github.com/ClaudioESSilva/PowerShellModulesCentral/tree/master/Modules/dbatools.md)
-  * [ReportingServicesTools](https://github.com/ClaudioESSilva/PowerShellModulesCentral/tree/master/Modules/ReportingServicesTools.md)
-  * [SQLDiagAPI](https://github.com/ClaudioESSilva/PowerShellModulesCentral/tree/master/Modules/SQLDiagAPI.md)
+  * [dbatools](https://github.com/ClaudioESSilva/PowerShellModulesCentral/Modules/dbatools.md)
+  * [PSNeo4j](https://github.com/ClaudioESSilva/PowerShellModulesCentral/Modules/PSNeo4j.md)
+  * [ReportingServicesTools](https://github.com/ClaudioESSilva/PowerShellModulesCentral/Modules/ReportingServicesTools.md)
+  * [SQLDiagAPI](https://github.com/ClaudioESSilva/PowerShellModulesCentral/Modules/SQLDiagAPI.md)
