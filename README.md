@@ -27,7 +27,7 @@ Please, read the [CONTRIBUTING.md](https://github.com/ClaudioESSilva/PowerShellM
 
 ## Index
 * Modules
-  * [dbatools](https://github.com/ClaudioESSilva/PowerShellModulesCentral/Modules/dbatools.md)
-  * [PSNeo4j](https://github.com/ClaudioESSilva/PowerShellModulesCentral/Modules/PSNeo4j.md)
-  * [ReportingServicesTools](https://github.com/ClaudioESSilva/PowerShellModulesCentral/Modules/ReportingServicesTools.md)
-  * [SQLDiagAPI](https://github.com/ClaudioESSilva/PowerShellModulesCentral/Modules/SQLDiagAPI.md)
+  * [dbatools](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master//Modules/dbatools.md)
+  * [PSNeo4j](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master//Modules/PSNeo4j.md)
+  * [ReportingServicesTools](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master//Modules/ReportingServicesTools.md)
+  * [SQLDiagAPI](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master//Modules/SQLDiagAPI.md)
