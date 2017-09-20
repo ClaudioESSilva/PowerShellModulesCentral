@@ -27,8 +27,9 @@ Please, read the [CONTRIBUTING.md](https://github.com/ClaudioESSilva/PowerShellM
 
 ## Index
 * Modules
-  * [dbatools](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master//Modules/dbatools.md)
-  * [DRSRule](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master//Modules/DRSRule.md)
-  * [PSNeo4j](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master//Modules/PSNeo4j.md)
-  * [ReportingServicesTools](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master//Modules/ReportingServicesTools.md)
-  * [SQLDiagAPI](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master//Modules/SQLDiagAPI.md)
+  * [dbatools](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/dbatools.md)
+  * [DRSRule](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/DRSRule.md)
+  * [PSFramework](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/PSFramework.md)
+  * [PSNeo4j](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/PSNeo4j.md)
+  * [ReportingServicesTools](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/ReportingServicesTools.md)
+  * [SQLDiagAPI](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/SQLDiagAPI.md)
