@@ -5,7 +5,7 @@ Chronometer is a PowerShell script and module profiler that allows you to see li
 
 | Works with | Author(s) | Project URL(s) | Creation Date | Tags |
 |------------|--------|-------------------|---------------|------|
-| PS v5.0+ | Kevin Marquette (<a href="https://kevinmarquette.github.io/blog/?utm_source=PowerShellModulesCentral&utm_medium=markdown" target="_blank">b</a> \| <a href="https://twitter.com/kevinmarquette" target="_blank">t</a>) | [Github](https://github.com/KevinMarquette/Chronometer) | Feb 2017 | Performance, Code Coverage |
+| PS v5.0+ | Kevin Marquette (<a href="https://kevinmarquette.github.io/blog/?utm_source=PowerShellModulesCentral&utm_medium=markdown" target="_blank">b</a> \| <a href="https://twitter.com/kevinmarquette" target="_blank">t</a>) | [Github](https://github.com/KevinMarquette/Chronometer) | February 2017 | Performance, Code Coverage |
 
 ____
 ### Shared blog posts:
