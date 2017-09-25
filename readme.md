@@ -30,7 +30,7 @@ Please, read the [CONTRIBUTING.md](https://github.com/ClaudioESSilva/PowerShellM
   * [Chronometer](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/Chronometer.md)
   * [dbatools](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/dbatools.md)
   * [DRSRule](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/DRSRule.md)
-  * [ModuleBuil](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/ModuleBuild.md)
+  * [ModuleBuild](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/ModuleBuild.md)
   * [PSFramework](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/PSFramework.md)
   * [PSGraph](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/PSGraph.md)
   * [PSNeo4j](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/PSNeo4j.md)
