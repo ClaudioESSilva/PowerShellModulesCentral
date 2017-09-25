@@ -1,7 +1,7 @@
 # Name: FixDaDatabase
 
 ## Description:
-This module has been created to remediate a common problem with Direct Access servers. It can determine if an Index is present for in the Direct Access Database. And it can either remove and create that index.
+This module has been created to remediate a common problem with Direct Access servers. It can determine if an Index is present for in the Direct Access Database. It can either remove or create the index using the functions in the module.
 
 | Works with | Author(s) | Project URL(s) | Creation Date | Tags |
 |------------|--------|-------------------|---------------|------|
