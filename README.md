@@ -29,7 +29,6 @@ Please, read the [CONTRIBUTING.md](https://github.com/ClaudioESSilva/PowerShellM
 * Modules
   * [dbatools](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/dbatools.md)
   * [DRSRule](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/DRSRule.md)
-  * [FixDaDatabase](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/FixDaDatabase.md)
   * [PSFramework](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/PSFramework.md)
   * [PSNeo4j](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/PSNeo4j.md)
   * [ReportingServicesTools](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/ReportingServicesTools.md)
