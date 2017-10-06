@@ -3,9 +3,9 @@
 ## Description:
 PSGraph is a module that is implemented as a DSL for the GraphViz engine. This allows you to generate graphs of information with Nodes and Edges dynamically from your data.
 
-| Works with | Author(s) | Project URL(s) | Creation Date | Tags |
-|------------|--------|-------------------|---------------|------|
-| [GraphViz](http://graphviz.org/) | Kevin Marquette (<a href="https://kevinmarquette.github.io/blog/?utm_source=PowerShellModulesCentral&utm_medium=markdown" target="_blank">b</a> \| <a href="https://twitter.com/kevinmarquette" target="_blank">t</a>) | [Github](https://github.com/KevinMarquette/PSGraph) \| [ReadTheDocs](http://psgraph.readthedocs.io/en/latest/) | January 2017 | Graph, DSL, Visualization |
+| Works with | Author(s) | Project URL(s) | PowerShell Gallery | Creation Date | Tags |
+|------------|--------|-------------------|--------------------|---------------|------|
+| [GraphViz](http://graphviz.org/) | Kevin Marquette (<a href="https://kevinmarquette.github.io/blog/?utm_source=PowerShellModulesCentral&utm_medium=markdown" target="_blank">b</a> \| <a href="https://twitter.com/kevinmarquette" target="_blank">t</a>) | [Github](https://github.com/KevinMarquette/PSGraph) \| [ReadTheDocs](http://psgraph.readthedocs.io/en/latest/) | [PSGraph](https://www.powershellgallery.com/packages/PSGraph) | January 2017 | Graph, DSL, Visualization |
 
 ____
 ### Shared blog posts:

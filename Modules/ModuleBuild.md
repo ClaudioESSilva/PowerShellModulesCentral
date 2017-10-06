@@ -3,9 +3,9 @@
 ## Description:
 A scaffolding framework which can be used to kickstart a generic PowerShell module project.
 
-| Works with | Author(s) | Project URL(s) | Creation Date | Tags |
-|------------|--------|-------------------|---------------|------|
-| PowerShell |  Zachary Loeber (<a href="https://www.the-little-things.net" target="_blank">b</a>  \| <a href="https://twitter.com/zloeber" target="_blank">t</a>) | [Github](https://github.com/zloeber/ModuleBuild) | February 2017 | plaster, invoke-build, scaffolding, module framework, build pipeline, platyps, build automation |
+| Works with | Author(s) | Project URL(s) | PowerShell Gallery | Creation Date | Tags |
+|------------|--------|-------------------|--------------------|---------------|------|
+| PowerShell |  Zachary Loeber (<a href="https://www.the-little-things.net" target="_blank">b</a>  \| <a href="https://twitter.com/zloeber" target="_blank">t</a>) | [Github](https://github.com/zloeber/ModuleBuild) | [ModuleBuild](https://www.powershellgallery.com/packages/ModuleBuild) | February 2017 | plaster, invoke-build, scaffolding, module framework, build pipeline, platyps, build automation |
 ____
 ### Shared blog posts:
 Zachary Loeber (<a href="https://www.the-little-things.net" target="_blank">b</a> | <a href="https://twitter.com/zloeber" target="_blank">t</a>)

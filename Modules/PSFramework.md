@@ -3,9 +3,9 @@
 ## Description:
 Module designed to provide powerful infrastructure features to powershell scripters. Whether it is to provide features, save time, improve user experience or drive manageability of PowerShell itself.
 
-| Works with | Author(s) | Project URL(s) | Creation Date | Tags |
-|------------|--------|-------------------|---------------|------|
-| PowerShell | Friedrich Weinmann (<a href="http://allthingspowershell.blogspot.de" target="_blank">b</a> \| <a href="https://twitter.com/FredWeinmann" target="_blank">t</a>) | [Github](https://github.com/PowershellFrameworkCollective/psframework) | April 2017 | Tools, Infrastructure, Framework, PowerShell, Logging, Management |
+| Works with | Author(s) | Project URL(s) | PowerShell Gallery | Creation Date | Tags |
+|------------|--------|-------------------|--------------------|---------------|------|
+| PowerShell | Friedrich Weinmann (<a href="http://allthingspowershell.blogspot.de" target="_blank">b</a> \| <a href="https://twitter.com/FredWeinmann" target="_blank">t</a>) | [Github](https://github.com/PowershellFrameworkCollective/psframework) | [PSframework](https://www.powershellgallery.com/packages/PSframework) | April 2017 | Tools, Infrastructure, Framework, PowerShell, Logging, Management |
 ____
 ### Shared blog posts:
 Friedrich Weinmann (<a href="http://allthingspowershell.blogspot.de" target="_blank">b</a> \| <a href="https://twitter.com/FredWeinmann" target="_blank">t</a>)

@@ -3,9 +3,9 @@
 ## Description:
 Instance migrations and best practice implementations.
 
-| Works with | Author(s) | Project URL(s) | Creation Date | Tags |
-|------------|--------|-------------------|---------------|------|
-| SQL Server, Windows | Chrissy LeMaire (<a href="https://blog.netnerds.net" target="_blank">b</a> \| <a href="https://twitter.com/cl" target="_blank">t</a>) | [GitHub](https://github.com/sqlcollaborative/dbatools/) \| [dbatools.io](https://dbatools.io) | February 2015 | SQL Server, Migrations, Best Practices, Databases |
+| Works with | Author(s) | Project URL(s) | PowerShell Gallery | Creation Date | Tags |
+|------------|--------|-------------------|--------------------|---------------|------|
+| SQL Server, Windows | Chrissy LeMaire (<a href="https://blog.netnerds.net" target="_blank">b</a> \| <a href="https://twitter.com/cl" target="_blank">t</a>) | [GitHub](https://github.com/sqlcollaborative/dbatools/) \| [dbatools.io](https://dbatools.io) | [dbatools](https://www.powershellgallery.com/packages/dbatools/0.9.64) | February 2015 | SQL Server, Migrations, Best Practices, Databases |
 ____
 ### Shared blog posts:
 Cláudio Silva (<a href="http://claudioessilva.eu" target="_blank">b</a> | <a href="https://twitter.com/claudioessilva" target="_blank">t</a>)

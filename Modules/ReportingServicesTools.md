@@ -3,9 +3,9 @@
 ## Description:
 This project contains PowerShell scripts that allows you to perform various operations with SQL Server Reporting Services.
 
-| Works with | Author(s) | Project URL(s) | Creation Date | Tags |
-|------------|--------|-------------------|---------------|------|
-| SQL Server Reporting Services | SQL Server Reporting Services Team (<a href="https://blogs.msdn.microsoft.com/sqlrsteamblog/" target="_blank">b</a> \| <a href="https://twitter.com/SQLServerBI" target="_blank">t</a>) | [GitHub](https://github.com/Microsoft/ReportingServicesTools) | October 2016 | SQL Server Reporting Services, Migrations, Deploy |
+| Works with | Author(s) | Project URL(s) | PowerShell Gallery | Creation Date | Tags |
+|------------|--------|-------------------|--------------------|---------------|------|
+| SQL Server Reporting Services | SQL Server Reporting Services Team (<a href="https://blogs.msdn.microsoft.com/sqlrsteamblog/" target="_blank">b</a> \| <a href="https://twitter.com/SQLServerBI" target="_blank">t</a>) | [GitHub](https://github.com/Microsoft/ReportingServicesTools) | [ReportingServicesTools](https://www.powershellgallery.com/packages/ReportingServicesTools) | October 2016 | SQL Server Reporting Services, Migrations, Deploy |
 ____
 ### Shared blog posts:
 Cláudio Silva (<a href="http://claudioessilva.eu" target="_blank">b</a> | <a href="https://twitter.com/claudioessilva" target="_blank">t</a>)
