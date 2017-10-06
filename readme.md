@@ -31,6 +31,7 @@ Please, read the [CONTRIBUTING.md](https://github.com/ClaudioESSilva/PowerShellM
   * [dbatools](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/dbatools.md)
   * [DRSRule](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/DRSRule.md)
   * [FixDaDatabase](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/FixDaDatabase.md)
+  * [ImportExcel](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/ImportExcel.md)
   * [ModuleBuild](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/ModuleBuild.md)
   * [PSFramework](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/PSFramework.md)
   * [PSGraph](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/PSGraph.md)
