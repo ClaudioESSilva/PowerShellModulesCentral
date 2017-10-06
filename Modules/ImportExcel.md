@@ -21,13 +21,17 @@ ____
 Doug Finke ([b](https://dfinke.github.io/) | [t](https://twitter.com/dfinke))
 
 * Central Limit
+
 ![](https://raw.githubusercontent.com/dfinke/GifCam/master/CentralLimit.gif)
 
 * Earthquake Data
+
 ![](https://raw.githubusercontent.com/dfinke/GifCam/master/GetEarthquakeData.gif)
 
 * Importing data from an Excel spreadsheet
+
 ![](https://raw.githubusercontent.com/dfinke/ImportExcel/master/images/TryImportExcel.gif)
 
 * Tracking UPS
+
 ![](https://raw.githubusercontent.com/dfinke/ImportExcel/master/images/Tracking.gif)
