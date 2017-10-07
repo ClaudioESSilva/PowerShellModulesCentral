@@ -11,7 +11,7 @@ PSCodeHealth allows you to measure the quality and maintainability of your Power
 
 | Works with | Author(s) | Project URL(s) | PowerShell Gallery | Creation Date | Tags |
 |------------|-----------|----------------|--------------------|---------------|------|
-| PS v5.x | Mathieu Buisson (<a href="https://mathieubuisson.github.io/" target="_blank">b</a> \| <a href="https://twitter.com/TheShellNut" target="_blank">t</a>) | [Github](https://github.com/MathieuBuisson/PSCodeHealth) \| [Documentation](http://pscodehealth.readthedocs.io/en/latest/) | [PSCodeHealth](https://www.powershellgallery.com/packages/PSCodeHealth/) | October 2017 | PowerShell, Quality, Code, Metrics |
+| PS v5.x | Mathieu Buisson (<a href="https://mathieubuisson.github.io/" target="_blank">b</a> \| <a href="https://twitter.com/TheShellNut" target="_blank">t</a>) | [Github](https://github.com/MathieuBuisson/PSCodeHealth) \| [ReadTheDocs](http://pscodehealth.readthedocs.io/en/latest/) | [PSCodeHealth](https://www.powershellgallery.com/packages/PSCodeHealth/) | October 2017 | PowerShell, Quality, Code, Metrics |
 ____
 ### Shared blog posts:
 Mathieu Buisson (<a href="https://mathieubuisson.github.io/" target="_blank">b</a> \| <a href="https://twitter.com/TheShellNut" target="_blank">t</a>)
