@@ -5,9 +5,9 @@
 ## Description:
 <add description>
 
-| Works with | Author(s) | Project URL(s) | Creation Date | Tags |
-|------------|--------|-------------------|---------------|------|
-| <one or mutiple> | <author 1> (<a href="urltoblog" target="_blank">b</a> \| <a href="https://twitter.com/<handle>" target="_blank">t</a>) | [Github](urltoprojectGithub) \| [official project site](urltoofficialprojectsite) | <Month Year> | <one or mutiple> |
+| Works with | Author(s) | Project URL(s) | PowerShell Gallery | Creation Date | Tags |
+|------------|--------|-------------------|--------------------|---------------|------|
+| <one or mutiple> | <author 1> (<a href="urltoblog" target="_blank">b</a> \| <a href="https://twitter.com/<handle>" target="_blank">t</a>) | [Github](urltoprojectGithub) \| [official project site](urltoofficialprojectsite) | [ModuleName on PowerShell Gallery](urltoPowerShellGalleryModule) | <MonthFullName Year> | <one or mutiple> |
 ____
 ### Shared blog posts:
 <author 1 name> (<a href="urltoBlog" target="_blank">b</a> | <a href="https://twitter.com/<handle>" target="_blank">t</a>)
