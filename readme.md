@@ -33,6 +33,7 @@ Please, read the [CONTRIBUTING.md](https://github.com/ClaudioESSilva/PowerShellM
   * [FixDaDatabase](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/FixDaDatabase.md)
   * [ImportExcel](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/ImportExcel.md)
   * [ModuleBuild](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/ModuleBuild.md)
+  * [PSCodeHealth](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/PSCodeHealth.md)
   * [PSFramework](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/PSFramework.md)
   * [PSGraph](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/PSGraph.md)
   * [PSNeo4j](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/PSNeo4j.md)
