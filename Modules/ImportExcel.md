@@ -20,6 +20,8 @@ ____
 ### Shared videos:
 Doug Finke ([b](https://dfinke.github.io/) | [t](https://twitter.com/dfinke))
 
+* On YouTube [How To use the PowerShell Excel Module](https://www.youtube.com/playlist?list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq)
+
 * Central Limit
 
 ![](https://raw.githubusercontent.com/dfinke/GifCam/master/CentralLimit.gif)
