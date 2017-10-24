@@ -15,6 +15,7 @@ PSCodeHealth allows you to measure the quality and maintainability of your Power
 ____
 ### Shared blog posts:
 Mathieu Buisson (<a href="https://mathieubuisson.github.io/" target="_blank">b</a> \| <a href="https://twitter.com/TheShellNut" target="_blank">t</a>)
-- [How To Assess and Improve PowerShell Code Quality Using PSCodeHealth](https://mathieubuisson.github.io/powershell-code-quality-pscodehealth/) @ 2017-10-04
+- [How To Assess and Improve PowerShell Code Quality Using PSCodeHealth](https://mathieubuisson.github.io/powershell-code-quality-pscodehealth/) @ 2017-10-04  
+- [Adding a Quality Gate To a PowerShell Release Pipeline with PSCodeHealth](https://mathieubuisson.github.io/pscodehealth-release-pipeline/) @2017-10-24
 ____
 ### Shared videos:  
