@@ -27,7 +27,6 @@ Please, read the [CONTRIBUTING.md](https://github.com/ClaudioESSilva/PowerShellM
 
 ## Index
 * Modules
-  * [AutomatedLab](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/AutomatedLab.md)
   * [Chronometer](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/Chronometer.md)
   * [dbatools](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/dbatools.md)
   * [DRSRule](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/DRSRule.md)

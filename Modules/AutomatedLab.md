@@ -5,7 +5,7 @@ AutomatedLab is a provisioning solution and framework that lets you deploy compl
 
 | Works with | Author(s) | Project URL(s) | PowerShell Gallery | Creation Date | Tags |
 |------------|--------|-------------------|--------------------|---------------|------|
-| PS v5.0+ | Raimund Andrée (<a href="https://twitter.com/raimundandree" target="_blank">t</a>), Per Pedersen, Jan-Hendrik Peters (<a href="https://twitter.com/nyanhp">) | [Github](https://github.com/AutomatedLab/AutomatedLab) | nA | 2012 | Automation, Lab Deployment |
+| PS v5.0+ | Raimund Andrée (<a href="https://twitter.com/raimundandree" target="_blank">t</a>), Per Pedersen, Jan-Hendrik Peters (<a href="https://twitter.com/nyanhp" target="_blank">t</a>) | [Github](https://github.com/AutomatedLab/AutomatedLab) | N/A | August 2013 | Automation, Lab Deployment |
 
 ____
 ### Shared blog posts:
