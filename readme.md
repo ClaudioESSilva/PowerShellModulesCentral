@@ -5,6 +5,22 @@ Each module has a file describing its name, basic information the module, as wel
 
 This way we can reduce friction when people are starting out or are trying to solve similar problems
 
+## Index
+* Modules
+  * [AutomatedLab](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/AutomatedLab.md)
+  * [Chronometer](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/Chronometer.md)
+  * [dbatools](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/dbatools.md)
+  * [DRSRule](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/DRSRule.md)
+  * [FixDaDatabase](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/FixDaDatabase.md)
+  * [ImportExcel](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/ImportExcel.md)
+  * [ModuleBuild](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/ModuleBuild.md)
+  * [PSCodeHealth](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/PSCodeHealth.md)
+  * [PSFramework](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/PSFramework.md)
+  * [PSGraph](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/PSGraph.md)
+  * [PSNeo4j](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/PSNeo4j.md)
+  * [ReportingServicesTools](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/ReportingServicesTools.md)
+  * [SQLDiagAPI](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/SQLDiagAPI.md)
+
 ## Why?
 When a new module appears on the PowerShell scene it can be difficult to advertise and gain mindshare among developers/end users who could be interested in it.
 There are also times when difficulties arise in finding if a good tool exists or not, if its up to date, and how relevant it is in the community.
@@ -24,18 +40,3 @@ Are trying to find a module to work on a specific task? Use the search on the to
 
 ## How to contribute
 Please, read the [CONTRIBUTING.md](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/CONTRIBUTING.md) file.
-
-## Index
-* Modules
-  * [Chronometer](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/Chronometer.md)
-  * [dbatools](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/dbatools.md)
-  * [DRSRule](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/DRSRule.md)
-  * [FixDaDatabase](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/FixDaDatabase.md)
-  * [ImportExcel](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/ImportExcel.md)
-  * [ModuleBuild](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/ModuleBuild.md)
-  * [PSCodeHealth](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/PSCodeHealth.md)
-  * [PSFramework](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/PSFramework.md)
-  * [PSGraph](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/PSGraph.md)
-  * [PSNeo4j](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/PSNeo4j.md)
-  * [ReportingServicesTools](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/ReportingServicesTools.md)
-  * [SQLDiagAPI](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/SQLDiagAPI.md)
