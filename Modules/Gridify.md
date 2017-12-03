@@ -1,15 +1,16 @@
-# Name: ImportExcel
+# Name: Gridify
 
 ## Description:
 **'Gridify'** module provides a cmdlet **'Set-GridLayout'** that can **resize** and **arrange** applications in an **automatic grid layout** with predefined formats using the Processes of the target applications passed as a parameter(**-Process**) value.
 
-![](https://raw.githubusercontent.com/PrateekKumarSingh/Gridify/master/Images/mosaic2.jpg)
-
 Cmdlet can automatically calculate the your screen resolution and set Applications in a neat grid layout in predefined/custom layout
+
+![](https://raw.githubusercontent.com/PrateekKumarSingh/Gridify/master/Images/GridLayout.png)
+
 
 | Works with | Author(s) | Project URL(s) | PowerShell Gallery | Creation Date | Tags |
 |------------|--------|-------------------|--------------------|---------------|------|
-| PowerShell 5.x | Prateek Singh ([b](https://geekeefy.wordpress.com/) \| [t](https://twitter.com/singhprateik)) | [Github](https://github.com/prateekkumarsingh/Gridify) | [Gridify](https://www.powershellgallery.com/packages/Gridify) | Nov 2017 | PowerShell, Application, Grid, Layout, Screen |
+| PowerShell 5.x | Prateek Singh ([b](https://geekeefy.wordpress.com/) \| [t](https://twitter.com/singhprateik)) | [Github](https://github.com/prateekkumarsingh/Gridify) | [Gridify](https://www.powershellgallery.com/packages/Gridify) | Nov 2017 | PowerShell, Grid, Layout, Screen |
 
 ____
 
