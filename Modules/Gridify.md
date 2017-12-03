@@ -10,7 +10,7 @@ Cmdlet can automatically calculate the your screen resolution and set Applicatio
 
 | Works with | Author(s) | Project URL(s) | PowerShell Gallery | Creation Date | Tags |
 |------------|--------|-------------------|--------------------|---------------|------|
-| PowerShell 5.x | Prateek Singh ([b](https://geekeefy.wordpress.com/) \| [t](https://twitter.com/singhprateik)) | [Github](https://github.com/prateekkumarsingh/Gridify) | [Gridify](https://www.powershellgallery.com/packages/Gridify) | Nov 2017 | PowerShell, Grid, Layout, Screen |
+| PowerShell 5.x | Prateek Singh ([b](https://geekeefy.wordpress.com/) \| [t](https://twitter.com/singhprateik)) | [Github](https://github.com/prateekkumarsingh/Gridify) | [Gridify](https://www.powershellgallery.com/packages/Gridify) | Nov 2017 | PowerShell, Grid, Layout |
 
 ____
 
