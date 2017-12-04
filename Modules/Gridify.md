@@ -5,13 +5,13 @@
 
 Cmdlet can automatically calculate the your screen resolution and set Applications in a neat grid layout in predefined/custom layout
 
-![](https://raw.githubusercontent.com/PrateekKumarSingh/Gridify/master/Images/GridLayout.png)
-
 
 | Works with | Author(s) | Project URL(s) | PowerShell Gallery | Creation Date | Tags |
 |------------|--------|-------------------|--------------------|---------------|------|
 | PowerShell 5.x | Prateek Singh ([b](https://geekeefy.wordpress.com/) \| [t](https://twitter.com/singhprateik)) | [Github](https://github.com/prateekkumarsingh/Gridify) | [Gridify](https://www.powershellgallery.com/packages/Gridify) | Nov 2017 | PowerShell, Grid |
 
+
+![](https://raw.githubusercontent.com/PrateekKumarSingh/Gridify/master/Images/GridLayout.png)
 ____
 
 ### Shared blog posts:
