@@ -12,6 +12,7 @@ This way we can reduce friction when people are starting out or are trying to so
   * [dbatools](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/dbatools.md)
   * [DRSRule](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/DRSRule.md)
   * [FixDaDatabase](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/FixDaDatabase.md)
+  * [Gridify](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/Gridify.md)
   * [ImportExcel](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/ImportExcel.md)
   * [ModuleBuild](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/ModuleBuild.md)
   * [PSCodeHealth](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/PSCodeHealth.md)
