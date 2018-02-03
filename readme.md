@@ -15,6 +15,7 @@ This way we can reduce friction when people are starting out or are trying to so
   * [Gridify](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/Gridify.md)
   * [ImportExcel](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/ImportExcel.md)
   * [ModuleBuild](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/ModuleBuild.md)
+  * [PoshRSJob](https://github.com/proxb/PowerShellModulesCentral/blob/master/Modules/PoshRSJob.md)
   * [PSCodeHealth](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/PSCodeHealth.md)
   * [PSFramework](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/PSFramework.md)
   * [PSGraph](https://github.com/ClaudioESSilva/PowerShellModulesCentral/blob/master/Modules/PSGraph.md)
